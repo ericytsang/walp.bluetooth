@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">walp.bluetooth</string>
+    <string name="mainactivity_remotemacaddress_edittext">Remote MAC Address</string>
+    <string name="mainactivity_connect_button">Connect</string>
+    <string name="mainactivity_macaddresslabel_textview">MAC Address:</string>
+    <string name="mainactivity_message_edittext">Message</string>
+    <string name="mainactivity_send_button">Send</string>
 </resources>
